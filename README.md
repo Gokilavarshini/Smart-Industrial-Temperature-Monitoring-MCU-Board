@@ -83,6 +83,7 @@ SCHEMATIC
 <img width="502" height="318" alt="Screenshot 2026-06-20 142152" src="https://github.com/user-attachments/assets/b946cc3e-5ca0-474e-83cc-9e2568e17c66" />
 
 LAYOUT
+
 <img width="506" height="323" alt="image" src="https://github.com/user-attachments/assets/b7c6f8ea-507f-482d-8688-24fe3df62e9a" />
 <img width="502" height="318" alt="image" src="https://github.com/user-attachments/assets/6e99eb1d-9163-4248-a3dd-a7736a7f5f1a" />
 <img width="1161" height="650" alt="Screenshot 2026-06-20 142010" src="https://github.com/user-attachments/assets/b869ae47-a3f8-411c-a2cd-855ee7df72b8" />
