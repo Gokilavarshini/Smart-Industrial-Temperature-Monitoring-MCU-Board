@@ -86,7 +86,11 @@ LAYOUT
 
 <img width="502" height="318" alt="Screenshot 2026-06-20 142152" src="https://github.com/user-attachments/assets/b946cc3e-5ca0-474e-83cc-9e2568e17c66" />
 <img width="506" height="323" alt="image" src="https://github.com/user-attachments/assets/b7c6f8ea-507f-482d-8688-24fe3df62e9a" />
-<img width="502" height="318" alt="image" src="https://github.com/user-attachments/assets/6e99eb1d-9163-4248-a3dd-a7736a7f5f1a" />
+
+3D MODEL
+
+<img width="486" height="320" alt="Screenshot 2026-06-20 142246" src="https://github.com/user-attachments/assets/dc0e41e3-3b1f-4967-8a63-dd9ff89e6ad7" />
+
 
 
 **FEATURES**
